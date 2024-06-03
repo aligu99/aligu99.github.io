@@ -1,1 +1,308 @@
-"use strict";function search(){$(".search-icon").css("opacity","1");var t=-1,e=0,a={thisSearch:"https://www.baidu.com/s?wd=",thisSearchIcon:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')",hotStatus:!0,data:[{name:"百度",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px 0px",position:"0px 0px",url:"https://www.baidu.com/s?wd="},{name:"谷歌",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -105px 0px",position:"-40px 0px",url:"https://www.google.com/search?q="},{name:"必应",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -80px -25px",position:"0px -40px",url:"https://cn.bing.com/search?q="},{name:"好搜",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -25px",position:"-40px -40px",url:"https://www.so.com/s?q="},{name:"搜狗",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -50px",position:"0px -80px",url:"https://www.sogou.com/web?query="},{name:"淘宝",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -50px",position:"-40px -80px",url:"https://s.taobao.com/search?q="},{name:"京东",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -75px",position:"0px -120px",url:"http://search.jd.com/Search?keyword="},{name:"天猫",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -75px",position:"-40px -120px",url:"https://list.tmall.com/search_product.htm?q="},{name:"1688",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -100px",position:"0px -160px",url:"https://s.1688.com/selloffer/offer_search.htm?keywords="},{name:"知乎",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -100px",position:"-40px -160px",url:"https://www.zhihu.com/search?type=content&q="},{name:"微博",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -125px",position:"0px -200px",url:"https://s.weibo.com/weibo/"},{name:"B站",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -125px",position:"-40px -200px",url:"http://search.bilibili.com/all?keyword="},{name:"豆瓣",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -150px",position:"0px -240px",url:"https://www.douban.com/search?source=suggest&q="},{name:"优酷",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -150px",position:"-40px -240px",url:"https://so.youku.com/search_video/q_"},{name:"GitHub",img:"url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -175px",position:"0px -280px",url:"https://github.com/search?utf8=✓&q="}]},s=localStorage.getItem("searchData");function o(s){return $(s).contents().filter(function(s,n){return 3===n.nodeType}).text().trim()}function n(s){$.ajax({type:"GET",url:"https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su",async:!0,data:{wd:s},dataType:"jsonp",jsonp:"cb",success:function(s){if($("#box ul").text(""),e=s.s.length){$("#box").css("display","block");for(var n=0;n<e;n++)$("#box ul").append("<li><span>"+(n+1)+"</span> "+s.s[n]+"</li>"),$("#box ul li").eq(n).click(function(){var s=o(this);$("#txt").val(s),window.open(a.thisSearch+s),$("#box").css("display","none")}),0===n?($("#box ul li").eq(n).css({"border-top":"none"}),$("#box ul span").eq(n).css({color:"#fff",background:"#f54545"})):1===n?$("#box ul span").eq(n).css({color:"#fff",background:"#ff8547"}):2===n&&$("#box ul span").eq(n).css({color:"#fff",background:"#ffac38"})}else $("#box").css("display","none")},error:function(s){console.log(s)}})}s&&(a=JSON.parse(s)),$("#txt").keyup(function(s){$(this).val()?38!=s.keyCode&&40!=s.keyCode&&a.hotStatus&&n($(this).val()):($(".search-clear").css("display","none"),$("#box").css("display","none"))}),$("#txt").keydown(function(s){var n;40===s.keyCode&&(t===e-1?t=0:t++,$("#box ul li").eq(t).addClass("current").siblings().removeClass("current"),n=o($("#box ul li").eq(t)),$("#txt").val(n)),38===s.keyCode&&(s.preventDefault&&s.preventDefault(),s.returnValue&&(s.returnValue=!1),0===t||-1===t?t=e-1:t--,$("#box ul li").eq(t).addClass("current").siblings().removeClass("current"),n=o($("#box ul li").eq(t)),$("#txt").val(n)),13===s.keyCode&&(window.open(a.thisSearch+$("#txt").val()),$("#box").css("display","none"),$("#txt").blur(),$("#box ul li").removeClass("current"),t=-1)}),$("#txt").focus(function(){$(".search-box").css("box-show","inset 0 1px 2px rgba(27,31,35,.075), 0 0 0 0.2em rgba(3,102,214,.3)"),$(this).val()&&a.hotStatus&&n($(this).val())}),$("#txt").blur(function(){setTimeout(function(){$("#box").css("display","none")},250)});for(var i=0;i<a.data.length;i++)$(".search-engine-list").append('<li><span style="background:'+a.data[i].img+'"/></span>'+a.data[i].name+"</li>");$(".search-icon, .search-engine").hover(function(){$(".search-engine").css("display","block")},function(){$(".search-engine").css("display","none")}),$("#hot-btn").click(function(){$(this).toggleClass("off"),a.hotStatus=!a.hotStatus,localStorage.searchData=JSON.stringify(a)}),a.hotStatus?$("#hot-btn").removeClass("off"):$("#hot-btn").addClass("off"),$(".search-engine-list li").click(function(){var s=$(this).index();a.thisSearchIcon=a.data[s].position,$(".search-icon").css("background-position",a.thisSearchIcon),a.thisSearch=a.data[s].url,$(".search-engine").css("display","none"),localStorage.searchData=JSON.stringify(a)}),$(".search-icon").css("background-position",a.thisSearchIcon),$("#search-btn").click(function(){var s=$("#txt").val();s?(window.open(a.thisSearch+s),$("#box ul").html("")):layer.msg("请输入关键词！",{time:500},function(){$("#txt").focus()})})}function switchNightMode(){"0"==(document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/,"$1")||"0")?(document.body.classList.add("night"),document.cookie="night=1;path=/"):(document.body.classList.remove("night"),document.cookie="night=0;path=/"),console.log(" ")}
+function search() {
+  $(".search-icon").css("opacity", "1");
+  var listIndex = -1;
+  var hotList = 0;
+  var searchData = {
+    thisSearch: "https://www.baidu.com/s?wd=",
+    thisSearchIcon:
+      "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')",
+    hotStatus: true,
+    data: [
+      {
+        name: "百度",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px 0px",
+        position: "0px 0px",
+        url: "https://www.baidu.com/s?wd=",
+      },
+      {
+        name: "谷歌",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -105px 0px",
+        position: "-40px 0px",
+        url: "https://www.google.com/search?q=",
+      },
+      {
+        name: "必应",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -80px -25px",
+        position: "0px -40px",
+        url: "https://cn.bing.com/search?q=",
+      },
+      {
+        name: "好搜",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -25px",
+        position: "-40px -40px",
+        url: "https://www.so.com/s?q=",
+      },
+      {
+        name: "搜狗",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -50px",
+        position: "0px -80px",
+        url: "https://www.sogou.com/web?query=",
+      },
+      {
+        name: "淘宝",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -50px",
+        position: "-40px -80px",
+        url: "https://s.taobao.com/search?q=",
+      },
+      {
+        name: "京东",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -75px",
+        position: "0px -120px",
+        url: "http://search.jd.com/Search?keyword=",
+      },
+      {
+        name: "天猫",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -75px",
+        position: "-40px -120px",
+        url: "https://list.tmall.com/search_product.htm?q=",
+      },
+      {
+        name: "1688",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -100px",
+        position: "0px -160px",
+        url: "https://s.1688.com/selloffer/offer_search.htm?keywords=",
+      },
+      {
+        name: "知乎",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -100px",
+        position: "-40px -160px",
+        url: "https://www.zhihu.com/search?type=content&q=",
+      },
+      {
+        name: "微博",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -125px",
+        position: "0px -200px",
+        url: "https://s.weibo.com/weibo/",
+      },
+      {
+        name: "B站",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -125px",
+        position: "-40px -200px",
+        url: "http://search.bilibili.com/all?keyword=",
+      },
+      {
+        name: "豆瓣",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -150px",
+        position: "0px -240px",
+        url: "https://www.douban.com/search?source=suggest&q=",
+      },
+      {
+        name: "优酷",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -150px",
+        position: "-40px -240px",
+        url: "https://so.youku.com/search_video/q_",
+      },
+      {
+        name: "GitHub",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -175px",
+        position: "0px -280px",
+        url: "https://github.com/search?utf8=✓&q=",
+      },
+    ],
+  };
+  var localSearchData = localStorage.getItem("searchData");
+  if (localSearchData) {
+    searchData = JSON.parse(localSearchData);
+  }
+  function filterChildren(element) {
+    var thisText = $(element)
+      .contents()
+      .filter(function (index, content) {
+        return content.nodeType === 3;
+      })
+      .text()
+      .trim();
+    return thisText;
+  }
+  function getHotkeyword(value) {
+    $.ajax({
+      type: "GET",
+      url: "https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su",
+      async: true,
+      data: {
+        wd: value,
+      },
+      dataType: "jsonp",
+      jsonp: "cb",
+      success: function (res) {
+        $("#box ul").text("");
+        hotList = res.s.length;
+        if (hotList) {
+          $("#box").css("display", "block");
+          for (var i = 0; i < hotList; i++) {
+            $("#box ul").append(
+              "<li><span>" + (i + 1) + "</span> " + res.s[i] + "</li>"
+            );
+            $("#box ul li")
+              .eq(i)
+              .click(function () {
+                var thisText = filterChildren(this);
+                $("#txt").val(thisText);
+                window.open(searchData.thisSearch + thisText);
+                $("#box").css("display", "none");
+              });
+            if (i === 0) {
+              $("#box ul li").eq(i).css({
+                "border-top": "none",
+              });
+              $("#box ul span").eq(i).css({
+                color: "#fff",
+                background: "#f54545",
+              });
+            } else {
+              if (i === 1) {
+                $("#box ul span").eq(i).css({
+                  color: "#fff",
+                  background: "#ff8547",
+                });
+              } else {
+                if (i === 2) {
+                  $("#box ul span").eq(i).css({
+                    color: "#fff",
+                    background: "#ffac38",
+                  });
+                }
+              }
+            }
+          }
+        } else {
+          $("#box").css("display", "none");
+        }
+      },
+      error: function (res) {
+        console.log(res);
+      },
+    });
+  }
+  $("#txt").keyup(function (e) {
+    if ($(this).val()) {
+      if (e.keyCode == 38 || e.keyCode == 40 || !searchData.hotStatus) {
+        return;
+      }
+      getHotkeyword($(this).val());
+    } else {
+      $(".search-clear").css("display", "none");
+      $("#box").css("display", "none");
+    }
+  });
+  $("#txt").keydown(function (e) {
+    if (e.keyCode === 40) {
+      listIndex === hotList - 1 ? (listIndex = 0) : listIndex++;
+      $("#box ul li")
+        .eq(listIndex)
+        .addClass("current")
+        .siblings()
+        .removeClass("current");
+      var hotValue = filterChildren($("#box ul li").eq(listIndex));
+      $("#txt").val(hotValue);
+    }
+    if (e.keyCode === 38) {
+      if (e.preventDefault) {
+        e.preventDefault();
+      }
+      if (e.returnValue) {
+        e.returnValue = false;
+      }
+      listIndex === 0 || listIndex === -1
+        ? (listIndex = hotList - 1)
+        : listIndex--;
+      $("#box ul li")
+        .eq(listIndex)
+        .addClass("current")
+        .siblings()
+        .removeClass("current");
+      var hotValue = filterChildren($("#box ul li").eq(listIndex));
+      $("#txt").val(hotValue);
+    }
+    if (e.keyCode === 13) {
+      window.open(searchData.thisSearch + $("#txt").val());
+      $("#box").css("display", "none");
+      $("#txt").blur();
+      $("#box ul li").removeClass("current");
+      listIndex = -1;
+    }
+  });
+  $("#txt").focus(function () {
+    $(".search-box").css(
+      "box-show",
+      "inset 0 1px 2px rgba(27,31,35,.075), 0 0 0 0.2em rgba(3,102,214,.3)"
+    );
+    if ($(this).val() && searchData.hotStatus) {
+      getHotkeyword($(this).val());
+    }
+  });
+  $("#txt").blur(function () {
+    setTimeout(function () {
+      $("#box").css("display", "none");
+    }, 250);
+  });
+  for (var i = 0; i < searchData.data.length; i++) {
+    $(".search-engine-list").append(
+      '<li><span style="background:' +
+        searchData.data[i].img +
+        '"/></span>' +
+        searchData.data[i].name +
+        "</li>"
+    );
+  }
+  $(".search-icon, .search-engine").hover(
+    function () {
+      $(".search-engine").css("display", "block");
+    },
+    function () {
+      $(".search-engine").css("display", "none");
+    }
+  );
+  $("#hot-btn").click(function () {
+    $(this).toggleClass("off");
+    searchData.hotStatus = !searchData.hotStatus;
+    localStorage.searchData = JSON.stringify(searchData);
+  });
+  searchData.hotStatus
+    ? $("#hot-btn").removeClass("off")
+    : $("#hot-btn").addClass("off");
+  $(".search-engine-list li").click(function () {
+    var index = $(this).index();
+    searchData.thisSearchIcon = searchData.data[index].position;
+    $(".search-icon").css("background-position", searchData.thisSearchIcon);
+    searchData.thisSearch = searchData.data[index].url;
+    $(".search-engine").css("display", "none");
+    localStorage.searchData = JSON.stringify(searchData);
+  });
+  $(".search-icon").css("background-position", searchData.thisSearchIcon);
+  $("#search-btn").click(function () {
+    var textValue = $("#txt").val();
+    if (textValue) {
+      window.open(searchData.thisSearch + textValue);
+      $("#box ul").html("");
+    } else {
+      layer.msg(
+        "请输入关键词！",
+        {
+          time: 500,
+        },
+        function () {
+          $("#txt").focus();
+        }
+      );
+    }
+  });
+}
+
+//夜间模式切换
+function switchNightMode() {
+  var night =
+    document.cookie.replace(
+      /(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/,
+      "$1"
+    ) || "0";
+  if (night == "0") {
+    document.body.classList.add("night");
+    document.cookie = "night=1;path=/";
+    console.log(" ");
+  } else {
+    document.body.classList.remove("night");
+    document.cookie = "night=0;path=/";
+    console.log(" ");
+  }
+}

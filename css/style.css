@@ -1,1 +1,13 @@
-#footer-wrap{color:#f5f5f5}.icon-color-change{color:red}
+#footer {
+    /*background: transparent;*/
+}
+
+#footer-wrap {
+    color: whitesmoke;
+}
+
+.icon-color-change {
+  color: #ff0000; /* 您希望图标的颜色，这里示例为红色 */
+}
+
+
