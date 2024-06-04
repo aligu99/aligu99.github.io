@@ -4,37 +4,138 @@
   
     
     <entry>
-      <title>add demo four</title>
+      <title>Gitcalendar</title>
+      <link href="/post/1fc27ecc.html"/>
+      <url>/post/1fc27ecc.html</url>
+      
+        <content type="html"><![CDATA[<div id="gitZone"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>添加首页分类磁贴</title>
+      <link href="/post/209e70f5.html"/>
+      <url>/post/209e70f5.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h3><p><a href="https://akilar.top/posts/a9131002/">Categories Magnet</a></p><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><p>安装插件,在博客根目录[Blogroot]下打开终端，运行以下指令：</p><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-butterfly-categories-card</span> <span class="string">--save</span></span><br></pre></td></tr></tbody></table></figure><h3 id="添加配置信息"><a href="#添加配置信息" class="headerlink" title="添加配置信息"></a>添加配置信息</h3><p>在站点配置文件_config.yml或者主题配置文件_config.butterfly.yml中添加</p><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># hexo-butterfly-categories-card</span></span><br><span class="line"><span class="comment"># see https://akilar.top/posts/a9131002/</span></span><br><span class="line"><span class="attr">categoryBar:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span> <span class="comment"># 开关</span></span><br><span class="line">  <span class="attr">priority:</span> <span class="number">5</span> <span class="comment">#过滤器优先权</span></span><br><span class="line">  <span class="attr">enable_page:</span> <span class="string">/</span> <span class="comment"># 应用页面</span></span><br><span class="line">  <span class="attr">layout:</span> <span class="comment"># 挂载容器类型</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">id</span></span><br><span class="line">    <span class="attr">name:</span> <span class="string">recent-posts</span></span><br><span class="line">    <span class="attr">index:</span> <span class="number">0</span></span><br><span class="line">  <span class="attr">column:</span> <span class="string">even</span> <span class="comment"># odd：3列 | even：4列</span></span><br><span class="line">  <span class="attr">row:</span> <span class="number">1</span> <span class="comment">#显示行数，默认两行，超过行数切换为滚动显示</span></span><br><span class="line">  <span class="attr">message:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">建站日志</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover1.webp</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">Demo</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover2.webp</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">视频</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover3.webp</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">文献</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover4.webp</span></span><br><span class="line">  <span class="attr">custom_css:</span> <span class="string">https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css</span></span><br></pre></td></tr></tbody></table></figure><h3 id="参数释义"><a href="#参数释义" class="headerlink" title="参数释义"></a>参数释义</h3><p><img src="https://cdn.jsdelivr.net/gh/aligu99/PicGo/img/%E9%A6%96%E9%A1%B5%E7%A3%81%E8%B4%B4%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E9%A1%B9%E5%8F%82%E6%95%B0.png" alt="参数释义"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>页脚Github徽标</title>
+      <link href="/post/9c60dc33.html"/>
+      <url>/post/9c60dc33.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h3><p><a href="https://www.fomal.cc/posts/eec9786.html">页脚Github徽标（店长）</a><br><a href="https://akilar.top/posts/e87ad7f8/">Add Github Badge</a></p><h3 id="shields-io在线生成"><a href="#shields-io在线生成" class="headerlink" title="shields.io在线生成"></a>shields.io在线生成</h3><ul><li>label:标签，徽标左侧内容</li><li>message:信息，徽标右侧内容</li><li>color:色值,支持支持十六进制、rgb、rgba、hsl、hsla和 css 命名颜色。十六进制记得删除前面的#号</li></ul><h3 id="获取徽标URL"><a href="#获取徽标URL" class="headerlink" title="获取徽标URL"></a>获取徽标URL</h3><p>输入相关信息后，点击make badge即可得到徽标的URL。可以用img标签引用，写法简单。不过正式写法建议用object标签引用，写法示例如下。<br></p><figure class="highlight html"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- label=Frame，Message=Hexo，color=blue --&gt;</span></span><br><span class="line">https://img.shields.io/badge/Frame-Hexo-blue</span><br><span class="line"><span class="comment">&lt;!-- 在页面上可以使用img标签来引用 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"https://img.shields.io/badge/Frame-Hexo-blue"</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 部分属性例如link需要用object标签来引用 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">object</span> <span class="attr">data</span>=<span class="string">"https://img.shields.io/badge/Frame-Hexo-blue?link=https://hexo.io"</span>&gt;</span><span class="tag">&lt;/<span class="name">object</span>&gt;</span></span><br></pre></td></tr></tbody></table></figure><p></p><h3 id="添加配置项"><a href="#添加配置项" class="headerlink" title="添加配置项"></a>添加配置项</h3><p>在[Blogroot]_config.butterfly.yml的footer配置项中添加徽标，注意事先压缩一下，使他们只留一行。为了不至于太过紧凑，设置一下行内间隔属性margin-inline。</p><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">footer:</span></span><br><span class="line"><span class="attr">owner:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">since:</span> <span class="number">2016</span></span><br><span class="line"><span class="attr">custom_text:</span> <span class="string">&lt;p&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="https://hexo.io/"&gt;&lt;img</span> <span class="string">src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&amp;logo=hexo"</span> <span class="string">title="博客框架为Hexo"&gt;&lt;/a&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="https://butterfly.js.org/"&gt;&lt;img</span> <span class="string">src="https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat&amp;logo=bitdefender"</span> <span class="string">title="主题采用butterfly"&gt;&lt;/a&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="https://www.jsdelivr.com/"&gt;&lt;img</span> <span class="string">src="https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&amp;logo=jsDelivr"</span> <span class="string">title="本站使用JsDelivr为静态资源提供CDN加速"&gt;&lt;/a&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="https://vercel.com/</span> <span class="string">"&gt;&lt;img src="</span><span class="string">https://img.shields.io/badge/Hosted-Vercel-brightgreen?style=flat&amp;logo=Vercel"</span> <span class="string">title="本站采用双线部署，默认线路托管于Vercel"&gt;&lt;/a&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="https://vercel.com/</span> <span class="string">"&gt;&lt;img src="</span><span class="string">https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&amp;logo=Codio"</span> <span class="string">title="本站采用双线部署，联通线路托管于Coding"&gt;&lt;/a&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="https://github.com/"&gt;&lt;img</span> <span class="string">src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&amp;logo=GitHub"</span> <span class="string">title="本站项目由Github托管"&gt;&lt;/a&gt;&lt;a</span> <span class="string">style="margin-inline:5px"</span> <span class="string">target="_blank"</span> <span class="string">href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;&lt;img</span> <span class="string">src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&amp;logo=Claris"</span> <span class="string">title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可"&gt;&lt;/a&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="attr">copyright:</span> <span class="literal">false</span> <span class="comment"># Copyright of theme and framework</span></span><br><span class="line"><span class="attr">ICP:</span> <span class="comment"># Chinese ICP License</span></span><br></pre></td></tr></tbody></table></figure><h3 id="备注-页脚样式修改"><a href="#备注-页脚样式修改" class="headerlink" title="备注(页脚样式修改)"></a>备注(页脚样式修改)</h3><p>页脚中添加的github徽标内容所占高度较小，页脚样式可通过<br>[Blogroot]\themes\butterfly\source\css\layout\footer.styl修改主题页脚样式，把padding参数40px改为30px:</p><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#footer-wrap</span></span><br><span class="line">  <span class="attr">position:</span> <span class="string">relative</span></span><br><span class="line">  <span class="attr">padding:</span> <span class="string">30px</span> <span class="string">20px</span></span><br><span class="line">  <span class="attr">color:</span> <span class="string">var(--light-grey)</span></span><br><span class="line">  <span class="attr">text-align:</span> <span class="string">center</span></span><br></pre></td></tr></tbody></table></figure><p>其中想通过插件化写法hexo-butterfly-footer-beautify添加页脚时钟，但是徽标message详细显示在整个页面中间，出现问题，固放弃。同时<a href="https://blog.june-pj.cn/posts/8a0c5a62/#2-%E4%BF%AE%E6%94%B9layout-pug">June’s Blog</a>展示了另一种页脚方式，后续再学习如何添加时钟。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>信笺样式留言板</title>
       <link href="/post/a2168cfc.html"/>
       <url>/post/a2168cfc.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h3><p><a href="https://www.fomal.cc/posts/eec9786.html">violet留言板（店长）</a><br><a href="https://akilar.top/posts/e2d3c450/">信笺样式留言板</a></p><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-envelope --save</span><br></pre></td></tr></tbody></table></figure><h3 id="添加配置项"><a href="#添加配置项" class="headerlink" title="添加配置项"></a>添加配置项</h3><ul><li>在站点配置文件_config.yml或主题配置文件_config.butterfly.yml添加以下配置项</li></ul><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># envelope_comment</span></span><br><span class="line"><span class="comment"># see https://akilar.top/posts/e2d3c450/</span></span><br><span class="line"><span class="attr">envelope_comment:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span> <span class="comment">#控制开关</span></span><br><span class="line">  <span class="attr">custom_pic:</span></span><br><span class="line">    <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg</span> <span class="comment">#信笺头部图片</span></span><br><span class="line">    <span class="attr">line:</span> <span class="string">https://npm.elemecdn.com/hexo-butterfly-envelope/lib/line.png</span> <span class="comment">#信笺底部图片</span></span><br><span class="line">    <span class="attr">beforeimg:</span> <span class="string">https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png</span> <span class="comment"># 信封前半部分</span></span><br><span class="line">    <span class="attr">afterimg:</span> <span class="string">https://npm.elemecdn.com/hexo-butterfly-envelope/lib/after.png</span> <span class="comment"># 信封后半部分</span></span><br><span class="line">  <span class="attr">message:</span> <span class="comment">#信笺正文，多行文本，写法如下</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">有什么想问的？</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">有什么想说的？</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">有什么想吐槽的？</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">哪怕是有什么想吃的，都可以告诉我哦~</span></span><br><span class="line">  <span class="attr">bottom:</span> <span class="string">自动书记人偶竭诚为您服务！</span> <span class="comment">#仅支持单行文本</span></span><br><span class="line">  <span class="attr">height:</span> <span class="comment">#1050px，信封划出的高度</span></span><br><span class="line">  <span class="attr">path:</span> <span class="comment">#【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html</span></span><br><span class="line">  <span class="attr">front_matter:</span> <span class="comment">#【可选】comments页面的 front_matter 配置</span></span><br><span class="line">    <span class="attr">title:</span> <span class="string">留言板</span></span><br><span class="line">    <span class="attr">comments:</span> <span class="literal">true</span></span><br></pre></td></tr></tbody></table></figure><ul><li>主题配置文件_config.butterfly.yml的目录menu下添加以下配置项</li></ul><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">menu:</span></span><br><span class="line">  <span class="string">留言板:</span> <span class="string">/comments/</span> <span class="string">||</span> <span class="string">fa-solid</span> <span class="string">fa-envelope-open-text</span></span><br></pre></td></tr></tbody></table></figure>]]></content>
       
       
+      <categories>
+          
+          <category> 建站日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>add demo three</title>
+      <title>引入iconfont自定义图标</title>
       <link href="/post/dc48bca9.html"/>
       <url>/post/dc48bca9.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h3><p><a href="https://butterfly.js.org/posts/4073eda/?highlight=iconfont#Icon">buttery主题配置-Icon</a></p><h3 id="新建图标项目"><a href="#新建图标项目" class="headerlink" title="新建图标项目"></a>新建图标项目</h3><ul><li>访问阿里巴巴矢量图标库,注册登录。</li><li>搜索自己心仪的图标，然后选择添加入库，加到购物车。</li><li>选择完毕后点击右上角的购物车图标，打开侧栏，选择添加到项目，如果没有项目就新建一个。</li><li>可以通过上方顶栏菜单-&gt;资源管理-&gt;我的项目，找到之前添加的图标项目。(现在的iconfont可以在图标库的项目设置里直接打开彩色设置，然后采用fontclass的引用方式即可使用多彩图标。但是单一项目彩色图标上限是40个图标，酌情采用。)</li></ul><h3 id="生成CSS链接"><a href="#生成CSS链接" class="headerlink" title="生成CSS链接"></a>生成CSS链接</h3><p>在添加到项目之后，会跳到项目的详情界面。点击Font class，然后再点击暂无代码，点击生成文字。网站会自动生成CSS链接，我们只需要复制链接就行。<br><img src="https://cdn.jsdelivr.net/gh/aligu99/PicGo/img/butterfly-iconfont-link.png" alt=""></p><h3 id="添加链接进主题配置文件"><a href="#添加链接进主题配置文件" class="headerlink" title="添加链接进主题配置文件"></a>添加链接进主题配置文件</h3><p>打开主题配置文件，找到inject配置，按要求把链接填入<br><img src="https://cdn.jsdelivr.net/gh/aligu99/PicGo/img/butterfly-iconfont-setting.png" alt=""><br>在我们需要使用的地方填入icon，例如Menu，图片使用格式为iconfont icon名字<br><img src="https://cdn.jsdelivr.net/gh/aligu99/PicGo/img/butterfly-iconfont-setting-menu.png" alt=""></p><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><p><img src="https://cdn.jsdelivr.net/gh/aligu99/PicGo/img/butterfly-iconfont-show.png" alt=""></p>]]></content>
       
       
+      <categories>
+          
+          <category> 建站日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> iconfont </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>add demo two</title>
+      <title>tips</title>
       <link href="/post/1e4ce84a.html"/>
       <url>/post/1e4ce84a.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<ul><li>在目标网站的首页网址后加上/favicon.ico并敲下Enter，可以得到近 90%网站的 Logo 图标。</li></ul><hr><ul><li>cdn生成的css，下载下来存放在本地自定义地方[Blogroot]/source/css/首页分类磁贴样式.css,以防增加别人网站负载。<br>custom_css: <a href="https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css">https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css</a><br>使用相对路径，省略了主题文件夹的路径，因为 Hexo 在生成网站时会将必要的资源文件复制到 public/ 目录中，并调整它们的路径以便正确引用</li></ul><figure class="highlight yaml"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># hexo-butterfly-categories-card 首页分类磁贴</span></span><br><span class="line"><span class="comment"># see https://akilar.top/posts/a9131002/</span></span><br><span class="line"><span class="attr">categoryBar:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span> <span class="comment"># 开关</span></span><br><span class="line">  <span class="attr">priority:</span> <span class="number">5</span> <span class="comment">#过滤器优先权</span></span><br><span class="line">  <span class="attr">enable_page:</span> <span class="string">/</span> <span class="comment"># 应用页面</span></span><br><span class="line">  <span class="attr">layout:</span> <span class="comment"># 挂载容器类型</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">id</span></span><br><span class="line">    <span class="attr">name:</span> <span class="string">recent-posts</span></span><br><span class="line">    <span class="attr">index:</span> <span class="number">0</span></span><br><span class="line">  <span class="attr">column:</span> <span class="string">even</span> <span class="comment"># odd：3列 | even：4列</span></span><br><span class="line">  <span class="attr">row:</span> <span class="number">1</span> <span class="comment">#显示行数，默认两行，超过行数切换为滚动显示</span></span><br><span class="line">  <span class="attr">message:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">建站日志</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover1.webp</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">Demo</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover2.webp</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">视频</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover3.webp</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">descr:</span> <span class="string">文献</span></span><br><span class="line">      <span class="attr">cover:</span> <span class="string">https://npm.elemecdn.com/akilar-candyassets/image/cover4.webp</span></span><br><span class="line">  <span class="attr">custom_css:</span> <span class="string">/css/首页分类磁贴样式.css</span></span><br></pre></td></tr></tbody></table></figure>]]></content>
       
       
       
@@ -43,13 +144,29 @@
     
     
     <entry>
-      <title>add demo one</title>
+      <title>添加评论系统</title>
       <link href="/post/75eae4dd.html"/>
       <url>/post/75eae4dd.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h3><p><a href="https://www.fomal.cc/posts/4aa2d85f.html">Vercel部署与自定义域名</a><br><a href="https://twikoo.js.org/backend.html#vercel-%E9%83%A8%E7%BD%B2">twikoo文档</a></p><h3 id="参考视频"><a href="#参考视频" class="headerlink" title="参考视频"></a>参考视频</h3><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=205905942&amp;bvid=BV1Fh411e7ZH&amp;cid=842070368&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><h3 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h3><p>注册MongoDB和vercel时已科学上网</p>]]></content>
       
       
+      <categories>
+          
+          <category> 建站日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> vercel </tag>
+            
+            <tag> twikoo </tag>
+            
+        </tags>
       
     </entry>
     
@@ -83,12 +200,18 @@
     
     
     <entry>
-      <title>hexo文章插入音乐和视频</title>
+      <title>hexo文章插入B站视频</title>
       <link href="/post/81775d35.html"/>
       <url>/post/81775d35.html</url>
       
         <content type="html"><![CDATA[<p>参考教程<a href="https://www.bilibili.com/video/BV1Cb411677C/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&amp;vd_source=7134e03c589e909ab13fc029e17782b0">hexo博客插入B站视频外链（raw实现）&amp;（标签插件实现）</a><br></p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=42467871&amp;bvid=BV1Cb411677C&amp;cid=74518805&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><p></p>]]></content>
       
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
       
       
         <tags>
@@ -250,7 +373,7 @@
       
       <categories>
           
-          <category> 建站日志 </category>
+          <category> 文献 </category>
           
       </categories>
       
