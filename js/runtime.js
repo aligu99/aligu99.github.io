@@ -1,1 +1,31 @@
-"use strict";var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var t=new Date("08/01/2022 00:00:00"),t=Math.trunc(234e8+(now-t)/1e3*17),e=(t/1496e5).toFixed(6),n=new Date("05/24/2024 00:00:00"),o=Math.floor((now-n)/1e3/60/60/24),F=Math.floor((now-n)/1e3/60/60-24*o),a=(1==String(F).length&&(F="0"+F),(now-n)/1e3/60-1440*o-60*F),a=Math.floor(a),n=(1==String(a).length&&(a="0"+a),(now-n)/1e3-86400*o-3600*F-60*a),n=Math.round(n),o=(1==String(n).length&&(n="0"+n),(F<18&&9<=F?"<img class='boardsign' src='https://img.shields.io/badge/%F0%9F%9B%B8%F0%9F%9B%B8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%F0%9F%95%96%F0%9F%95%9B%F0%9F%95%A3%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F%F0%9F%90%9F-blue' title='什么时候能够实现财富自由呀~'><br> <div style=\"font-size:13px;font-weight:bold\">本站居然运行了 ":"<img class='boardsign' src='https://img.shields.io/badge/%F0%9F%9B%B8%F0%9F%9B%B8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%F0%9F%95%96%F0%9F%95%9B%F0%9F%95%A3%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F%F0%9F%90%9F-blue' title='下班了就该开开心心地玩耍~'><br> <div style=\"font-size:13px;font-weight:bold\">本站居然运行了 ").concat(o," 天 ").concat(F," 小时 ").concat(a," 分 ").concat(n," 秒 <i id=\"heartbeat\" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ").concat(t," 千米，约为 ").concat(e," 个天文单位 🚀</div>"));document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=o)}setInterval(function(){createtime()},1e3);
+var now = new Date();
+function createtime() {
+  // 当前时间
+  now.setTime(now.getTime() + 1000);
+  var start = new Date("08/01/2022 00:00:00"); // 旅行者1号开始计算的时间
+  var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
+  var unit = (dis / 149600000).toFixed(6);  // 天文单位
+  var grt = new Date("05/24/2024 00:00:00");	// 网站诞生时间
+  var days = (now - grt) / 1e3 / 60 / 60 / 24,
+    dnum = Math.floor(days),
+    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
+    hnum = Math.floor(hours);
+  1 == String(hnum).length && (hnum = "0" + hnum);
+  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,
+    mnum = Math.floor(minutes);
+  1 == String(mnum).length && (mnum = "0" + mnum);
+  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,
+    snum = Math.round(seconds);
+  1 == String(snum).length && (snum = "0" + snum);
+  let currentTimeHtml = "";
+  (currentTimeHtml =
+    hnum < 18 && hnum >= 9
+    ? `<img class='boardsign' src='https://img.shields.io/badge/%F0%9F%9B%B8%F0%9F%9B%B8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%F0%9F%95%96%F0%9F%95%9B%F0%9F%95%A3%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F%F0%9F%90%9F-blue' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+    : `<img class='boardsign' src='https://img.shields.io/badge/%F0%9F%9B%B8%F0%9F%9B%B8%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%F0%9F%95%96%F0%9F%95%9B%F0%9F%95%A3%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F%F0%9F%90%9F-blue' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+    document.getElementById("workboard") &&
+    (document.getElementById("workboard").innerHTML = currentTimeHtml);
+}
+// 设置重复执行函数，周期1000ms
+setInterval(() => {
+  createtime();
+}, 1000);
