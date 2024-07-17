@@ -1,0 +1,1 @@
+"use strict";var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="国⚽又倒了~",clearTimeout(titleTime)):(document.title="失眠了🐼～",titleTime=setTimeout(function(){document.title=OriginTitile},2e3))});

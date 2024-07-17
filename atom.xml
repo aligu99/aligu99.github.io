@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿力古の小菜园</title>
+  
+  <subtitle>大师兄，师傅被妖怪抓走啦！</subtitle>
+  <link href="https://aligu99.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://aligu99.github.io/"/>
+  <updated>2024-07-17T10:31:32.711Z</updated>
+  <id>https://aligu99.github.io/</id>
+  
+  <author>
+    <name>阿力古の小菜园</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录出现Unexpected token的语法问题</title>
+    <link href="https://aligu99.github.io/post/58dd4ea8.html"/>
+    <id>https://aligu99.github.io/post/58dd4ea8.html</id>
+    <published>2024-07-17T01:45:06.000Z</published>
+    <updated>2024-07-17T10:31:32.711Z</updated>
+    
+    
+    <summary type="html">在hexo生成静态文件的时候出现 “Unexpected token&quot;的语法错误</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="Error" scheme="https://aligu99.github.io/tags/Error/"/>
+    
+    <category term="豆瓣" scheme="https://aligu99.github.io/tags/%E8%B1%86%E7%93%A3/"/>
+    
+    <category term="插件" scheme="https://aligu99.github.io/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo的webstack主题分站建立及修改</title>
+    <link href="https://aligu99.github.io/post/89ad7e90.html"/>
+    <id>https://aligu99.github.io/post/89ad7e90.html</id>
+    <published>2024-07-11T07:06:52.000Z</published>
+    <updated>2024-07-16T10:36:25.936Z</updated>
+    
+    
+    <summary type="html">给hexo博客添加webstack主题的网址导航，第一种方法是把webstack主题的hexo博客生成的静态文件public放在主站源文件中，第二种方法是把webstack主题hexo博客部署到服务器解析分站域名。</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="webstack" scheme="https://aligu99.github.io/tags/webstack/"/>
+    
+    <category term="域名" scheme="https://aligu99.github.io/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+    <category term="cloudflare" scheme="https://aligu99.github.io/tags/cloudflare/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo内嵌PDF.js全平台查看PDF</title>
+    <link href="https://aligu99.github.io/post/58cf1c26.html"/>
+    <id>https://aligu99.github.io/post/58cf1c26.html</id>
+    <published>2024-07-10T07:14:53.000Z</published>
+    <updated>2024-07-16T10:36:25.936Z</updated>
+    
+    
+    <summary type="html">Mozilla的PDF.js项目提供一个纯Web基础上的高质量PDF文档渲染解决方案，允许用户在浏览器中直接查看和操作PDF文件，而无需依赖任何本地插件。</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="pdf" scheme="https://aligu99.github.io/tags/pdf/"/>
+    
+    <category term="文献" scheme="https://aligu99.github.io/tags/%E6%96%87%E7%8C%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>备忘录</title>
+    <link href="https://aligu99.github.io/post/27d394ca.html"/>
+    <id>https://aligu99.github.io/post/27d394ca.html</id>
+    <published>2024-07-07T06:02:51.000Z</published>
+    <updated>2024-07-16T10:36:25.936Z</updated>
+    
+    
+    <summary type="html">备忘录</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="备忘录" scheme="https://aligu99.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    <category term="拨号" scheme="https://aligu99.github.io/tags/%E6%8B%A8%E5%8F%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CDN 镜像节点</title>
+    <link href="https://aligu99.github.io/post/b6c256e1.html"/>
+    <id>https://aligu99.github.io/post/b6c256e1.html</id>
+    <published>2024-07-07T05:06:34.000Z</published>
+    <updated>2024-07-16T10:36:25.936Z</updated>
+    
+    
+    <summary type="html">CDN 镜像节点整理</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="CDN" scheme="https://aligu99.github.io/tags/CDN/"/>
+    
+    <category term="图床" scheme="https://aligu99.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://aligu99.github.io/post/da4ac563.html"/>
+    <id>https://aligu99.github.io/post/da4ac563.html</id>
+    <published>2024-06-25T02:49:45.000Z</published>
+    <updated>2024-07-17T11:07:49.046Z</updated>
+    
+    
+    <summary type="html">测试</summary>
+    
+    
+    
+    <category term="展示" scheme="https://aligu99.github.io/categories/%E5%B1%95%E7%A4%BA/"/>
+    
+    
+    <category term="demo" scheme="https://aligu99.github.io/tags/demo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>友链样式魔改</title>
+    <link href="https://aligu99.github.io/post/1aef58c8.html"/>
+    <id>https://aligu99.github.io/post/1aef58c8.html</id>
+    <published>2024-06-06T05:18:53.000Z</published>
+    <updated>2024-07-16T10:36:25.935Z</updated>
+    
+    
+    <summary type="html">采用flexcard的外挂标签样式来写友情链接</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客宽屏适配</title>
+    <link href="https://aligu99.github.io/post/4d45026a.html"/>
+    <id>https://aligu99.github.io/post/4d45026a.html</id>
+    <published>2024-06-06T03:19:21.000Z</published>
+    <updated>2024-07-16T10:36:25.935Z</updated>
+    
+    
+    <summary type="html">修改CSS调整博客的宽度、边栏卡片大小、分页适配</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>地图插件给文章添加地图</title>
+    <link href="https://aligu99.github.io/post/ef5a93d5.html"/>
+    <id>https://aligu99.github.io/post/ef5a93d5.html</id>
+    <published>2024-06-05T09:47:22.000Z</published>
+    <updated>2024-07-16T10:36:25.934Z</updated>
+    
+    
+    <summary type="html">使用Hexo-tag-map地图插件给文章添加地图</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文章H1~H6标题小风车转动效果</title>
+    <link href="https://aligu99.github.io/post/68095dd8.html"/>
+    <id>https://aligu99.github.io/post/68095dd8.html</id>
+    <published>2024-06-05T07:07:38.000Z</published>
+    <updated>2024-07-16T10:36:25.935Z</updated>
+    
+    
+    <summary type="html">通过增加custom.css样式增加小标题前小图标动态效果</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Aplayer吸底音乐标签伸缩</title>
+    <link href="https://aligu99.github.io/post/89fec669.html"/>
+    <id>https://aligu99.github.io/post/89fec669.html</id>
+    <published>2024-06-05T05:37:51.000Z</published>
+    <updated>2024-07-16T10:36:25.934Z</updated>
+    
+    
+    <summary type="html">通过custom.css将aplayer音乐标签变成侧栏伸缩形式</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>添加首页分类磁贴</title>
+    <link href="https://aligu99.github.io/post/209e70f5.html"/>
+    <id>https://aligu99.github.io/post/209e70f5.html</id>
+    <published>2024-06-04T09:35:03.000Z</published>
+    <updated>2024-07-16T10:36:25.933Z</updated>
+    
+    
+    <summary type="html">封面和描述配置项直接嵌入配置文件</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>页脚Github徽标</title>
+    <link href="https://aligu99.github.io/post/9c60dc33.html"/>
+    <id>https://aligu99.github.io/post/9c60dc33.html</id>
+    <published>2024-06-04T08:46:25.000Z</published>
+    <updated>2024-07-16T10:36:25.934Z</updated>
+    
+    
+    <summary type="html">shields.io在线生成徽标，效果同Fomalhaut🥝页脚相同</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信笺样式留言板</title>
+    <link href="https://aligu99.github.io/post/a2168cfc.html"/>
+    <id>https://aligu99.github.io/post/a2168cfc.html</id>
+    <published>2024-06-04T05:05:53.000Z</published>
+    <updated>2024-07-16T10:36:25.932Z</updated>
+    
+    
+    <summary type="html">在导航栏添加信笺样式留言板并添加图标</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>引入iconfont自定义图标</title>
+    <link href="https://aligu99.github.io/post/dc48bca9.html"/>
+    <id>https://aligu99.github.io/post/dc48bca9.html</id>
+    <published>2024-06-04T03:32:38.000Z</published>
+    <updated>2024-07-16T10:36:25.933Z</updated>
+    
+    
+    <summary type="html">引入阿里巴巴矢量图标库iconfont的自定义图标</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="iconfont" scheme="https://aligu99.github.io/tags/iconfont/"/>
+    
+  </entry>
+  
+</feed>
