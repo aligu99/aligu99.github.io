@@ -9,8 +9,35 @@
     <atom:link href="https://aligu99.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Wed, 17 Jul 2024 10:31:32 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2024 05:42:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>语雀同款链接卡片</title>
+      <link>https://aligu99.github.io/post/5abc425e.html</link>
+      <guid>https://aligu99.github.io/post/5abc425e.html</guid>
+      <pubDate>Thu, 18 Jul 2024 04:48:43 GMT</pubDate>
+      
+      <description>转载自@Leonus“语雀同款链接卡片—butterfly主题标签外挂”</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/">链接卡片</category>
+      
+      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://aligu99.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/">标签外挂</category>
+      
+      
+      <comments>https://aligu99.github.io/post/5abc425e.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>记录出现Unexpected token的语法问题</title>
@@ -323,29 +350,6 @@
       
       
       <comments>https://aligu99.github.io/post/a2168cfc.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>引入iconfont自定义图标</title>
-      <link>https://aligu99.github.io/post/dc48bca9.html</link>
-      <guid>https://aligu99.github.io/post/dc48bca9.html</guid>
-      <pubDate>Tue, 04 Jun 2024 03:32:38 GMT</pubDate>
-      
-      <description>引入阿里巴巴矢量图标库iconfont的自定义图标</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://aligu99.github.io/tags/iconfont/">iconfont</category>
-      
-      
-      <comments>https://aligu99.github.io/post/dc48bca9.html#disqus_thread</comments>
       
     </item>
     

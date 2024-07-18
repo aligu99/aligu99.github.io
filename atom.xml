@@ -6,7 +6,7 @@
   <link href="https://aligu99.github.io/atom.xml" rel="self"/>
   
   <link href="https://aligu99.github.io/"/>
-  <updated>2024-07-17T10:31:32.711Z</updated>
+  <updated>2024-07-18T05:42:11.519Z</updated>
   <id>https://aligu99.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>语雀同款链接卡片</title>
+    <link href="https://aligu99.github.io/post/5abc425e.html"/>
+    <id>https://aligu99.github.io/post/5abc425e.html</id>
+    <published>2024-07-18T04:48:43.000Z</published>
+    <updated>2024-07-18T05:42:11.519Z</updated>
+    
+    
+    <summary type="html">转载自@Leonus“语雀同款链接卡片—butterfly主题标签外挂”</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="链接卡片" scheme="https://aligu99.github.io/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/"/>
+    
+    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
+    
+    <category term="标签外挂" scheme="https://aligu99.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/"/>
+    
+  </entry>
   
   <entry>
     <title>记录出现Unexpected token的语法问题</title>
@@ -299,27 +324,6 @@
     
     
     <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>引入iconfont自定义图标</title>
-    <link href="https://aligu99.github.io/post/dc48bca9.html"/>
-    <id>https://aligu99.github.io/post/dc48bca9.html</id>
-    <published>2024-06-04T03:32:38.000Z</published>
-    <updated>2024-07-16T10:36:25.933Z</updated>
-    
-    
-    <summary type="html">引入阿里巴巴矢量图标库iconfont的自定义图标</summary>
-    
-    
-    
-    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
-    
-    <category term="iconfont" scheme="https://aligu99.github.io/tags/iconfont/"/>
     
   </entry>
   
