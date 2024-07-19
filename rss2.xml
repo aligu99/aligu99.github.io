@@ -9,8 +9,31 @@
     <atom:link href="https://aligu99.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Thu, 18 Jul 2024 05:42:11 GMT</pubDate>
+    <pubDate>Fri, 19 Jul 2024 09:10:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>控制指定单页的侧边栏显示</title>
+      <link>https://aligu99.github.io/post/11b34c92.html</link>
+      <guid>https://aligu99.github.io/post/11b34c92.html</guid>
+      <pubDate>Fri, 19 Jul 2024 06:51:17 GMT</pubDate>
+      
+      <description>在特定page页面上隐藏侧边栏</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
+      
+      
+      <comments>https://aligu99.github.io/post/11b34c92.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>语雀同款链接卡片</title>
@@ -28,9 +51,9 @@
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
       
-      <category domain="https://aligu99.github.io/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/">链接卡片</category>
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
-      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
+      <category domain="https://aligu99.github.io/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/">链接卡片</category>
       
       <category domain="https://aligu99.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/">标签外挂</category>
       
@@ -54,6 +77,8 @@
       
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://aligu99.github.io/tags/Error/">Error</category>
       
@@ -81,6 +106,8 @@
       
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://aligu99.github.io/tags/webstack/">webstack</category>
       
@@ -110,6 +137,8 @@
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
       
       <category domain="https://aligu99.github.io/tags/pdf/">pdf</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://aligu99.github.io/tags/%E6%96%87%E7%8C%AE/">文献</category>
       
@@ -201,6 +230,8 @@
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
       
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
+      
       
       <comments>https://aligu99.github.io/post/1aef58c8.html#disqus_thread</comments>
       
@@ -221,6 +252,8 @@
       
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
       
       <comments>https://aligu99.github.io/post/4d45026a.html#disqus_thread</comments>
@@ -243,6 +276,8 @@
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
       
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
+      
       
       <comments>https://aligu99.github.io/post/ef5a93d5.html#disqus_thread</comments>
       
@@ -263,6 +298,8 @@
       
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
       
       <comments>https://aligu99.github.io/post/68095dd8.html#disqus_thread</comments>
@@ -285,6 +322,8 @@
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
       
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
+      
       
       <comments>https://aligu99.github.io/post/89fec669.html#disqus_thread</comments>
       
@@ -305,6 +344,8 @@
       
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
       
       
       <comments>https://aligu99.github.io/post/209e70f5.html#disqus_thread</comments>
@@ -327,29 +368,10 @@
       
       <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
       
+      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
+      
       
       <comments>https://aligu99.github.io/post/9c60dc33.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>信笺样式留言板</title>
-      <link>https://aligu99.github.io/post/a2168cfc.html</link>
-      <guid>https://aligu99.github.io/post/a2168cfc.html</guid>
-      <pubDate>Tue, 04 Jun 2024 05:05:53 GMT</pubDate>
-      
-      <description>在导航栏添加信笺样式留言板并添加图标</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
-      
-      
-      <comments>https://aligu99.github.io/post/a2168cfc.html#disqus_thread</comments>
       
     </item>
     
