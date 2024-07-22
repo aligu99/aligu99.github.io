@@ -133,9 +133,9 @@
     
     <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
     
-    <category term="pdf" scheme="https://aligu99.github.io/tags/pdf/"/>
-    
     <category term="Butterfly" scheme="https://aligu99.github.io/tags/Butterfly/"/>
+    
+    <category term="pdf" scheme="https://aligu99.github.io/tags/pdf/"/>
     
     <category term="文献" scheme="https://aligu99.github.io/tags/%E6%96%87%E7%8C%AE/"/>
     
@@ -167,7 +167,7 @@
     <link href="https://aligu99.github.io/post/b6c256e1.html"/>
     <id>https://aligu99.github.io/post/b6c256e1.html</id>
     <published>2024-07-07T05:06:34.000Z</published>
-    <updated>2024-07-16T10:36:25.936Z</updated>
+    <updated>2024-07-22T06:33:54.350Z</updated>
     
     
     <summary type="html">CDN 镜像节点整理</summary>
@@ -188,7 +188,7 @@
     <link href="https://aligu99.github.io/post/da4ac563.html"/>
     <id>https://aligu99.github.io/post/da4ac563.html</id>
     <published>2024-06-25T02:49:45.000Z</published>
-    <updated>2024-07-21T05:44:23.953Z</updated>
+    <updated>2024-07-22T05:53:03.705Z</updated>
     
     
     <summary type="html">测试</summary>
@@ -207,7 +207,7 @@
     <link href="https://aligu99.github.io/post/1aef58c8.html"/>
     <id>https://aligu99.github.io/post/1aef58c8.html</id>
     <published>2024-06-06T05:18:53.000Z</published>
-    <updated>2024-07-19T09:02:28.429Z</updated>
+    <updated>2024-07-22T06:31:37.451Z</updated>
     
     
     <summary type="html">采用flexcard的外挂标签样式来写友情链接</summary>
@@ -228,7 +228,7 @@
     <link href="https://aligu99.github.io/post/4d45026a.html"/>
     <id>https://aligu99.github.io/post/4d45026a.html</id>
     <published>2024-06-06T03:19:21.000Z</published>
-    <updated>2024-07-19T09:02:28.462Z</updated>
+    <updated>2024-07-22T06:30:30.597Z</updated>
     
     
     <summary type="html">修改CSS调整博客的宽度、边栏卡片大小、分页适配</summary>
@@ -249,7 +249,7 @@
     <link href="https://aligu99.github.io/post/ef5a93d5.html"/>
     <id>https://aligu99.github.io/post/ef5a93d5.html</id>
     <published>2024-06-05T09:47:22.000Z</published>
-    <updated>2024-07-19T09:02:28.455Z</updated>
+    <updated>2024-07-22T06:28:03.654Z</updated>
     
     
     <summary type="html">使用Hexo-tag-map地图插件给文章添加地图</summary>
@@ -270,7 +270,7 @@
     <link href="https://aligu99.github.io/post/68095dd8.html"/>
     <id>https://aligu99.github.io/post/68095dd8.html</id>
     <published>2024-06-05T07:07:38.000Z</published>
-    <updated>2024-07-19T09:02:28.481Z</updated>
+    <updated>2024-07-22T06:25:53.998Z</updated>
     
     
     <summary type="html">通过增加custom.css样式增加小标题前小图标动态效果</summary>
@@ -291,7 +291,7 @@
     <link href="https://aligu99.github.io/post/89fec669.html"/>
     <id>https://aligu99.github.io/post/89fec669.html</id>
     <published>2024-06-05T05:37:51.000Z</published>
-    <updated>2024-07-19T09:02:28.464Z</updated>
+    <updated>2024-07-22T06:23:05.918Z</updated>
     
     
     <summary type="html">通过custom.css将aplayer音乐标签变成侧栏伸缩形式</summary>
@@ -312,7 +312,7 @@
     <link href="https://aligu99.github.io/post/209e70f5.html"/>
     <id>https://aligu99.github.io/post/209e70f5.html</id>
     <published>2024-06-04T09:35:03.000Z</published>
-    <updated>2024-07-19T09:02:28.441Z</updated>
+    <updated>2024-07-22T06:21:51.394Z</updated>
     
     
     <summary type="html">封面和描述配置项直接嵌入配置文件</summary>
@@ -333,7 +333,7 @@
     <link href="https://aligu99.github.io/post/9c60dc33.html"/>
     <id>https://aligu99.github.io/post/9c60dc33.html</id>
     <published>2024-06-04T08:46:25.000Z</published>
-    <updated>2024-07-19T09:02:28.478Z</updated>
+    <updated>2024-07-22T06:19:36.796Z</updated>
     
     
     <summary type="html">shields.io在线生成徽标，效果同Fomalhaut🥝页脚相同</summary>
