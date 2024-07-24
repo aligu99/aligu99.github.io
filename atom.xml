@@ -6,7 +6,7 @@
   <link href="https://aligu99.github.io/atom.xml" rel="self"/>
   
   <link href="https://aligu99.github.io/"/>
-  <updated>2024-07-20T05:01:36.040Z</updated>
+  <updated>2024-07-24T08:04:29.391Z</updated>
   <id>https://aligu99.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>获取Waline评论总数</title>
+    <link href="https://aligu99.github.io/post/104b880.html"/>
+    <id>https://aligu99.github.io/post/104b880.html</id>
+    <published>2024-07-24T05:39:35.000Z</published>
+    <updated>2024-07-24T08:04:29.391Z</updated>
+    
+    
+    <summary type="html">在数据库Leancloud中获取Waline评论总数</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Waline" scheme="https://aligu99.github.io/tags/Waline/"/>
+    
+    <category term="评论" scheme="https://aligu99.github.io/tags/%E8%AF%84%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>控制指定单页的侧边栏显示</title>
@@ -316,27 +337,6 @@
     
     
     <summary type="html">封面和描述配置项直接嵌入配置文件</summary>
-    
-    
-    
-    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
-    
-    <category term="Butterfly" scheme="https://aligu99.github.io/tags/Butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>页脚Github徽标</title>
-    <link href="https://aligu99.github.io/post/9c60dc33.html"/>
-    <id>https://aligu99.github.io/post/9c60dc33.html</id>
-    <published>2024-06-04T08:46:25.000Z</published>
-    <updated>2024-07-22T06:19:36.796Z</updated>
-    
-    
-    <summary type="html">shields.io在线生成徽标，效果同Fomalhaut🥝页脚相同</summary>
     
     
     

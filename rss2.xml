@@ -9,8 +9,31 @@
     <atom:link href="https://aligu99.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Sat, 20 Jul 2024 05:01:36 GMT</pubDate>
+    <pubDate>Wed, 24 Jul 2024 08:04:29 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>获取Waline评论总数</title>
+      <link>https://aligu99.github.io/post/104b880.html</link>
+      <guid>https://aligu99.github.io/post/104b880.html</guid>
+      <pubDate>Wed, 24 Jul 2024 05:39:35 GMT</pubDate>
+      
+      <description>在数据库Leancloud中获取Waline评论总数</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/Waline/">Waline</category>
+      
+      <category domain="https://aligu99.github.io/tags/%E8%AF%84%E8%AE%BA/">评论</category>
+      
+      
+      <comments>https://aligu99.github.io/post/104b880.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>控制指定单页的侧边栏显示</title>
@@ -349,29 +372,6 @@
       
       
       <comments>https://aligu99.github.io/post/209e70f5.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>页脚Github徽标</title>
-      <link>https://aligu99.github.io/post/9c60dc33.html</link>
-      <guid>https://aligu99.github.io/post/9c60dc33.html</guid>
-      <pubDate>Tue, 04 Jun 2024 08:46:25 GMT</pubDate>
-      
-      <description>shields.io在线生成徽标，效果同Fomalhaut🥝页脚相同</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://aligu99.github.io/tags/Butterfly/">Butterfly</category>
-      
-      
-      <comments>https://aligu99.github.io/post/9c60dc33.html#disqus_thread</comments>
       
     </item>
     
