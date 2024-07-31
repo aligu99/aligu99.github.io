@@ -9,8 +9,29 @@
     <atom:link href="https://aligu99.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Wed, 24 Jul 2024 08:04:29 GMT</pubDate>
+    <pubDate>Wed, 31 Jul 2024 09:40:49 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>网站字体压缩和拆分</title>
+      <link>https://aligu99.github.io/post/3485d605.html</link>
+      <guid>https://aligu99.github.io/post/3485d605.html</guid>
+      <pubDate>Wed, 31 Jul 2024 07:51:22 GMT</pubDate>
+      
+      <description>通过对字体的压缩和拆分提高网站加载速度。</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/%E5%AD%97%E4%BD%93/">字体</category>
+      
+      
+      <comments>https://aligu99.github.io/post/3485d605.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>获取Waline评论总数</title>
@@ -349,29 +370,6 @@
       
       
       <comments>https://aligu99.github.io/post/89fec669.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>添加首页分类磁贴</title>
-      <link>https://aligu99.github.io/post/209e70f5.html</link>
-      <guid>https://aligu99.github.io/post/209e70f5.html</guid>
-      <pubDate>Tue, 04 Jun 2024 09:35:03 GMT</pubDate>
-      
-      <description>封面和描述配置项直接嵌入配置文件</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
-      
-      
-      <comments>https://aligu99.github.io/post/209e70f5.html#disqus_thread</comments>
       
     </item>
     

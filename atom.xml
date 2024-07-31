@@ -6,7 +6,7 @@
   <link href="https://aligu99.github.io/atom.xml" rel="self"/>
   
   <link href="https://aligu99.github.io/"/>
-  <updated>2024-07-24T08:04:29.391Z</updated>
+  <updated>2024-07-31T09:40:49.239Z</updated>
   <id>https://aligu99.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站字体压缩和拆分</title>
+    <link href="https://aligu99.github.io/post/3485d605.html"/>
+    <id>https://aligu99.github.io/post/3485d605.html</id>
+    <published>2024-07-31T07:51:22.000Z</published>
+    <updated>2024-07-31T09:40:49.239Z</updated>
+    
+    
+    <summary type="html">通过对字体的压缩和拆分提高网站加载速度。</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="字体" scheme="https://aligu99.github.io/tags/%E5%AD%97%E4%BD%93/"/>
+    
+  </entry>
   
   <entry>
     <title>获取Waline评论总数</title>
@@ -167,7 +186,7 @@
     <link href="https://aligu99.github.io/post/27d394ca.html"/>
     <id>https://aligu99.github.io/post/27d394ca.html</id>
     <published>2024-07-07T06:02:51.000Z</published>
-    <updated>2024-07-31T05:06:26.022Z</updated>
+    <updated>2024-07-31T08:51:32.397Z</updated>
     
     
     <summary type="html">备忘录</summary>
@@ -316,27 +335,6 @@
     
     
     <summary type="html">通过custom.css将aplayer音乐标签变成侧栏伸缩形式</summary>
-    
-    
-    
-    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
-    
-    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>添加首页分类磁贴</title>
-    <link href="https://aligu99.github.io/post/209e70f5.html"/>
-    <id>https://aligu99.github.io/post/209e70f5.html</id>
-    <published>2024-06-04T09:35:03.000Z</published>
-    <updated>2024-07-31T06:48:10.059Z</updated>
-    
-    
-    <summary type="html">封面和描述配置项直接嵌入配置文件</summary>
     
     
     
