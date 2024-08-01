@@ -6,7 +6,7 @@
   <link href="https://aligu99.github.io/atom.xml" rel="self"/>
   
   <link href="https://aligu99.github.io/"/>
-  <updated>2024-08-01T01:41:40.612Z</updated>
+  <updated>2024-08-01T05:50:02.428Z</updated>
   <id>https://aligu99.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://aligu99.github.io/post/3f18a304.html"/>
     <id>https://aligu99.github.io/post/3f18a304.html</id>
     <published>2024-07-31T13:12:42.000Z</published>
-    <updated>2024-08-01T01:41:40.612Z</updated>
+    <updated>2024-08-01T05:50:02.428Z</updated>
     
     
     <summary type="html">让侧边公告栏只在首页显示，其他页面不显示。</summary>
@@ -30,6 +30,10 @@
     
     <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
     
     <category term="侧边栏" scheme="https://aligu99.github.io/tags/%E4%BE%A7%E8%BE%B9%E6%A0%8F/"/>
     
@@ -40,7 +44,7 @@
     <link href="https://aligu99.github.io/post/3485d605.html"/>
     <id>https://aligu99.github.io/post/3485d605.html</id>
     <published>2024-07-31T07:51:22.000Z</published>
-    <updated>2024-08-01T01:36:13.672Z</updated>
+    <updated>2024-08-01T05:50:02.425Z</updated>
     
     
     <summary type="html">通过对字体的压缩和拆分提高网站加载速度。</summary>
@@ -49,6 +53,10 @@
     
     <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
     
     <category term="字体" scheme="https://aligu99.github.io/tags/%E5%AD%97%E4%BD%93/"/>
     
@@ -59,7 +67,7 @@
     <link href="https://aligu99.github.io/post/104b880.html"/>
     <id>https://aligu99.github.io/post/104b880.html</id>
     <published>2024-07-24T05:39:35.000Z</published>
-    <updated>2024-07-24T08:04:29.391Z</updated>
+    <updated>2024-08-01T05:50:02.415Z</updated>
     
     
     <summary type="html">在数据库Leancloud中获取Waline评论总数</summary>
@@ -68,6 +76,10 @@
     
     <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
     
     <category term="Waline" scheme="https://aligu99.github.io/tags/Waline/"/>
     
