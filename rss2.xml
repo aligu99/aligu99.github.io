@@ -9,8 +9,29 @@
     <atom:link href="https://aligu99.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Wed, 31 Jul 2024 10:56:12 GMT</pubDate>
+    <pubDate>Thu, 01 Aug 2024 01:41:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>公告栏只在首页显示</title>
+      <link>https://aligu99.github.io/post/3f18a304.html</link>
+      <guid>https://aligu99.github.io/post/3f18a304.html</guid>
+      <pubDate>Wed, 31 Jul 2024 13:12:42 GMT</pubDate>
+      
+      <description>让侧边公告栏只在首页显示，其他页面不显示。</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/%E4%BE%A7%E8%BE%B9%E6%A0%8F/">侧边栏</category>
+      
+      
+      <comments>https://aligu99.github.io/post/3f18a304.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>网站字体压缩和拆分</title>
@@ -347,29 +368,6 @@
       
       
       <comments>https://aligu99.github.io/post/68095dd8.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Aplayer吸底音乐标签伸缩</title>
-      <link>https://aligu99.github.io/post/89fec669.html</link>
-      <guid>https://aligu99.github.io/post/89fec669.html</guid>
-      <pubDate>Wed, 05 Jun 2024 05:37:51 GMT</pubDate>
-      
-      <description>通过custom.css将aplayer音乐标签变成侧栏伸缩形式</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
-      
-      
-      <comments>https://aligu99.github.io/post/89fec669.html#disqus_thread</comments>
       
     </item>
     

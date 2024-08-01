@@ -6,7 +6,7 @@
   <link href="https://aligu99.github.io/atom.xml" rel="self"/>
   
   <link href="https://aligu99.github.io/"/>
-  <updated>2024-07-31T10:56:12.369Z</updated>
+  <updated>2024-08-01T01:41:40.612Z</updated>
   <id>https://aligu99.github.io/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>公告栏只在首页显示</title>
+    <link href="https://aligu99.github.io/post/3f18a304.html"/>
+    <id>https://aligu99.github.io/post/3f18a304.html</id>
+    <published>2024-07-31T13:12:42.000Z</published>
+    <updated>2024-08-01T01:41:40.612Z</updated>
+    
+    
+    <summary type="html">让侧边公告栏只在首页显示，其他页面不显示。</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="侧边栏" scheme="https://aligu99.github.io/tags/%E4%BE%A7%E8%BE%B9%E6%A0%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>网站字体压缩和拆分</title>
     <link href="https://aligu99.github.io/post/3485d605.html"/>
     <id>https://aligu99.github.io/post/3485d605.html</id>
     <published>2024-07-31T07:51:22.000Z</published>
-    <updated>2024-07-31T10:56:12.369Z</updated>
+    <updated>2024-08-01T01:36:13.672Z</updated>
     
     
     <summary type="html">通过对字体的压缩和拆分提高网站加载速度。</summary>
@@ -247,7 +266,7 @@
     <link href="https://aligu99.github.io/post/1aef58c8.html"/>
     <id>https://aligu99.github.io/post/1aef58c8.html</id>
     <published>2024-06-06T05:18:53.000Z</published>
-    <updated>2024-07-31T05:07:33.291Z</updated>
+    <updated>2024-08-01T01:39:28.997Z</updated>
     
     
     <summary type="html">采用flexcard的外挂标签样式来写友情链接</summary>
@@ -314,27 +333,6 @@
     
     
     <summary type="html">通过增加custom.css样式增加小标题前小图标动态效果</summary>
-    
-    
-    
-    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
-    
-    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Aplayer吸底音乐标签伸缩</title>
-    <link href="https://aligu99.github.io/post/89fec669.html"/>
-    <id>https://aligu99.github.io/post/89fec669.html</id>
-    <published>2024-06-05T05:37:51.000Z</published>
-    <updated>2024-07-31T05:21:43.868Z</updated>
-    
-    
-    <summary type="html">通过custom.css将aplayer音乐标签变成侧栏伸缩形式</summary>
     
     
     
