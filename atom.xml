@@ -6,7 +6,7 @@
   <link href="https://aligu99.github.io/atom.xml" rel="self"/>
   
   <link href="https://aligu99.github.io/"/>
-  <updated>2024-08-01T05:50:02.428Z</updated>
+  <updated>2024-08-02T04:30:37.015Z</updated>
   <id>https://aligu99.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>移动端侧边菜单栏添加功能按钮</title>
+    <link href="https://aligu99.github.io/post/e3f9f39a.html"/>
+    <id>https://aligu99.github.io/post/e3f9f39a.html</id>
+    <published>2024-08-02T02:18:03.000Z</published>
+    <updated>2024-08-02T04:30:37.015Z</updated>
+    
+    
+    <summary type="html">给Hexo博客移动端侧边菜单栏添加功能按钮</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
+    
+    <category term="菜单栏" scheme="https://aligu99.github.io/tags/%E8%8F%9C%E5%8D%95%E6%A0%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Artitalk说说</title>
+    <link href="https://aligu99.github.io/post/b92db799.html"/>
+    <id>https://aligu99.github.io/post/b92db799.html</id>
+    <published>2024-08-02T02:06:10.000Z</published>
+    <updated>2024-08-02T02:19:24.130Z</updated>
+    
+    
+    <summary type="html">Hexo博客实现Artitalk说说功能</summary>
+    
+    
+    
+    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
+    
+    <category term="artitalk" scheme="https://aligu99.github.io/tags/artitalk/"/>
+    
+  </entry>
   
   <entry>
     <title>公告栏只在首页显示</title>
@@ -44,7 +90,7 @@
     <link href="https://aligu99.github.io/post/3485d605.html"/>
     <id>https://aligu99.github.io/post/3485d605.html</id>
     <published>2024-07-31T07:51:22.000Z</published>
-    <updated>2024-08-01T05:50:02.425Z</updated>
+    <updated>2024-08-02T04:19:31.220Z</updated>
     
     
     <summary type="html">通过对字体的压缩和拆分提高网站加载速度。</summary>
@@ -113,7 +159,7 @@
     <link href="https://aligu99.github.io/post/5abc425e.html"/>
     <id>https://aligu99.github.io/post/5abc425e.html</id>
     <published>2024-07-18T04:48:43.000Z</published>
-    <updated>2024-07-31T05:05:29.894Z</updated>
+    <updated>2024-08-02T04:22:37.550Z</updated>
     
     
     <summary type="html">转载自@Leonus“语雀同款链接卡片—butterfly主题标签外挂”</summary>
@@ -213,32 +259,11 @@
   </entry>
   
   <entry>
-    <title>备忘录</title>
-    <link href="https://aligu99.github.io/post/27d394ca.html"/>
-    <id>https://aligu99.github.io/post/27d394ca.html</id>
-    <published>2024-07-07T06:02:51.000Z</published>
-    <updated>2024-07-31T08:51:32.397Z</updated>
-    
-    
-    <summary type="html">备忘录</summary>
-    
-    
-    
-    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="备忘录" scheme="https://aligu99.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
-    
-    <category term="拨号" scheme="https://aligu99.github.io/tags/%E6%8B%A8%E5%8F%B7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>CDN 镜像节点</title>
     <link href="https://aligu99.github.io/post/b6c256e1.html"/>
     <id>https://aligu99.github.io/post/b6c256e1.html</id>
     <published>2024-07-07T05:06:34.000Z</published>
-    <updated>2024-07-31T05:07:01.524Z</updated>
+    <updated>2024-08-02T03:15:43.805Z</updated>
     
     
     <summary type="html">CDN 镜像节点整理</summary>
@@ -320,31 +345,10 @@
     <link href="https://aligu99.github.io/post/ef5a93d5.html"/>
     <id>https://aligu99.github.io/post/ef5a93d5.html</id>
     <published>2024-06-05T09:47:22.000Z</published>
-    <updated>2024-07-31T05:19:02.683Z</updated>
+    <updated>2024-08-02T03:16:28.829Z</updated>
     
     
     <summary type="html">使用Hexo-tag-map地图插件给文章添加地图</summary>
-    
-    
-    
-    <category term="日志" scheme="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://aligu99.github.io/tags/Hexo/"/>
-    
-    <category term="butterfly" scheme="https://aligu99.github.io/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文章H1~H6标题小风车转动效果</title>
-    <link href="https://aligu99.github.io/post/68095dd8.html"/>
-    <id>https://aligu99.github.io/post/68095dd8.html</id>
-    <published>2024-06-05T07:07:38.000Z</published>
-    <updated>2024-07-31T05:26:07.951Z</updated>
-    
-    
-    <summary type="html">通过增加custom.css样式增加小标题前小图标动态效果</summary>
     
     
     

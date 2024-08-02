@@ -9,8 +9,58 @@
     <atom:link href="https://aligu99.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Thu, 01 Aug 2024 05:50:02 GMT</pubDate>
+    <pubDate>Fri, 02 Aug 2024 04:30:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>移动端侧边菜单栏添加功能按钮</title>
+      <link>https://aligu99.github.io/post/e3f9f39a.html</link>
+      <guid>https://aligu99.github.io/post/e3f9f39a.html</guid>
+      <pubDate>Fri, 02 Aug 2024 02:18:03 GMT</pubDate>
+      
+      <description>给Hexo博客移动端侧边菜单栏添加功能按钮</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://aligu99.github.io/tags/%E8%8F%9C%E5%8D%95%E6%A0%8F/">菜单栏</category>
+      
+      
+      <comments>https://aligu99.github.io/post/e3f9f39a.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Artitalk说说</title>
+      <link>https://aligu99.github.io/post/b92db799.html</link>
+      <guid>https://aligu99.github.io/post/b92db799.html</guid>
+      <pubDate>Fri, 02 Aug 2024 02:06:10 GMT</pubDate>
+      
+      <description>Hexo博客实现Artitalk说说功能</description>
+      
+      
+      
+      
+      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://aligu99.github.io/tags/artitalk/">artitalk</category>
+      
+      
+      <comments>https://aligu99.github.io/post/b92db799.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>公告栏只在首页显示</title>
@@ -225,29 +275,6 @@
     </item>
     
     <item>
-      <title>备忘录</title>
-      <link>https://aligu99.github.io/post/27d394ca.html</link>
-      <guid>https://aligu99.github.io/post/27d394ca.html</guid>
-      <pubDate>Sun, 07 Jul 2024 06:02:51 GMT</pubDate>
-      
-      <description>备忘录</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/">备忘录</category>
-      
-      <category domain="https://aligu99.github.io/tags/%E6%8B%A8%E5%8F%B7/">拨号</category>
-      
-      
-      <comments>https://aligu99.github.io/post/27d394ca.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>CDN 镜像节点</title>
       <link>https://aligu99.github.io/post/b6c256e1.html</link>
       <guid>https://aligu99.github.io/post/b6c256e1.html</guid>
@@ -357,29 +384,6 @@
       
       
       <comments>https://aligu99.github.io/post/ef5a93d5.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>文章H1~H6标题小风车转动效果</title>
-      <link>https://aligu99.github.io/post/68095dd8.html</link>
-      <guid>https://aligu99.github.io/post/68095dd8.html</guid>
-      <pubDate>Wed, 05 Jun 2024 07:07:38 GMT</pubDate>
-      
-      <description>通过增加custom.css样式增加小标题前小图标动态效果</description>
-      
-      
-      
-      
-      <category domain="https://aligu99.github.io/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://aligu99.github.io/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://aligu99.github.io/tags/butterfly/">butterfly</category>
-      
-      
-      <comments>https://aligu99.github.io/post/68095dd8.html#disqus_thread</comments>
       
     </item>
     
