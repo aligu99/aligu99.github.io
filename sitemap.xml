@@ -470,15 +470,6 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/flink_cover/index.html</loc>
-    
-    <lastmod>2024-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.aligu.top/picture/beauty/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
@@ -488,7 +479,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/other/index.html</loc>
+    <loc>https://blog.aligu.top/picture/flink_cover/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -507,6 +498,15 @@
   
   <url>
     <loc>https://blog.aligu.top/picture/%E5%B0%81%E9%9D%A2/index.html</loc>
+    
+    <lastmod>2024-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/picture/other/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
