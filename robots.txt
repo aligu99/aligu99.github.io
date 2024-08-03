@@ -1,0 +1,7 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Disallow: /about/
+
+Sitemap: https://blog.aligu.top/sitemap.xml
+Sitemap: https://blog.aligu.top/baidusitemap.xml

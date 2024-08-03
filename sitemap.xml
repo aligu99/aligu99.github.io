@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/other/index.html</loc>
+    <loc>https://blog.aligu.top/picture/flink_cover/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -479,7 +479,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/flink_cover/index.html</loc>
+    <loc>https://blog.aligu.top/picture/other/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -579,13 +579,6 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/Python/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.aligu.top/tags/model/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -614,7 +607,14 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/password/</loc>
+    <loc>https://blog.aligu.top/tags/Math/</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/Chem/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -628,14 +628,14 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/Math/</loc>
+    <loc>https://blog.aligu.top/tags/Python/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/Chem/</loc>
+    <loc>https://blog.aligu.top/tags/password/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
