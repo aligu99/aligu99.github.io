@@ -461,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/flink_cover/index.html</loc>
+    <loc>https://blog.aligu.top/picture/beauty/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/beauty/index.html</loc>
+    <loc>https://blog.aligu.top/picture/flink_cover/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -740,6 +740,20 @@
   </url>
   
   <url>
+    <loc>https://blog.aligu.top/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/</loc>
+    <lastmod>2024-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/</loc>
+    <lastmod>2024-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.aligu.top/tags/Error/</loc>
     <lastmod>2024-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -755,20 +769,6 @@
   
   <url>
     <loc>https://blog.aligu.top/tags/%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2024-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.aligu.top/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/</loc>
-    <lastmod>2024-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.aligu.top/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/</loc>
     <lastmod>2024-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
