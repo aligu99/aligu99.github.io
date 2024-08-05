@@ -263,9 +263,9 @@
       
       <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
       
-      <category domain="https://blog.aligu.top/tags/pdf/">pdf</category>
-      
       <category domain="https://blog.aligu.top/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://blog.aligu.top/tags/pdf/">pdf</category>
       
       <category domain="https://blog.aligu.top/tags/%E6%96%87%E7%8C%AE/">文献</category>
       
@@ -319,6 +319,29 @@
     </item>
     
     <item>
+      <title>部署Hexo博客到京东云服务器</title>
+      <link>https://blog.aligu.top/post/99caca76.html</link>
+      <guid>https://blog.aligu.top/post/99caca76.html</guid>
+      <pubDate>Tue, 18 Jun 2024 03:29:57 GMT</pubDate>
+      
+      <description>部署Hexo博客到京东云服务器（自用备忘）</description>
+      
+      
+      
+      
+      <category domain="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.aligu.top/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/">云服务器</category>
+      
+      
+      <comments>https://blog.aligu.top/post/99caca76.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>友链样式魔改</title>
       <link>https://blog.aligu.top/post/1aef58c8.html</link>
       <guid>https://blog.aligu.top/post/1aef58c8.html</guid>
@@ -361,29 +384,6 @@
       
       
       <comments>https://blog.aligu.top/post/4d45026a.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>地图插件给文章添加地图</title>
-      <link>https://blog.aligu.top/post/ef5a93d5.html</link>
-      <guid>https://blog.aligu.top/post/ef5a93d5.html</guid>
-      <pubDate>Wed, 05 Jun 2024 09:47:22 GMT</pubDate>
-      
-      <description>使用Hexo-tag-map地图插件给文章添加地图</description>
-      
-      
-      
-      
-      <category domain="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://blog.aligu.top/tags/butterfly/">butterfly</category>
-      
-      
-      <comments>https://blog.aligu.top/post/ef5a93d5.html#disqus_thread</comments>
       
     </item>
     

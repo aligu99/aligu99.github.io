@@ -250,9 +250,9 @@
     
     <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
     
-    <category term="pdf" scheme="https://blog.aligu.top/tags/pdf/"/>
-    
     <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
+    
+    <category term="pdf" scheme="https://blog.aligu.top/tags/pdf/"/>
     
     <category term="文献" scheme="https://blog.aligu.top/tags/%E6%96%87%E7%8C%AE/"/>
     
@@ -299,6 +299,27 @@
   </entry>
   
   <entry>
+    <title>部署Hexo博客到京东云服务器</title>
+    <link href="https://blog.aligu.top/post/99caca76.html"/>
+    <id>https://blog.aligu.top/post/99caca76.html</id>
+    <published>2024-06-18T03:29:57.000Z</published>
+    <updated>2024-08-05T07:14:44.457Z</updated>
+    
+    
+    <summary type="html">部署Hexo博客到京东云服务器（自用备忘）</summary>
+    
+    
+    
+    <category term="日志" scheme="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
+    
+    <category term="云服务器" scheme="https://blog.aligu.top/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>友链样式魔改</title>
     <link href="https://blog.aligu.top/post/1aef58c8.html"/>
     <id>https://blog.aligu.top/post/1aef58c8.html</id>
@@ -328,27 +349,6 @@
     
     
     <summary type="html">修改CSS调整博客的宽度、边栏卡片大小、分页适配</summary>
-    
-    
-    
-    <category term="日志" scheme="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
-    
-    <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>地图插件给文章添加地图</title>
-    <link href="https://blog.aligu.top/post/ef5a93d5.html"/>
-    <id>https://blog.aligu.top/post/ef5a93d5.html</id>
-    <published>2024-06-05T09:47:22.000Z</published>
-    <updated>2024-08-02T03:16:28.829Z</updated>
-    
-    
-    <summary type="html">使用Hexo-tag-map地图插件给文章添加地图</summary>
     
     
     
