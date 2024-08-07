@@ -207,33 +207,6 @@
   </entry>
   
   <entry>
-    <title>Hexo的webstack主题分站建立及修改</title>
-    <link href="https://blog.aligu.top/post/89ad7e90.html"/>
-    <id>https://blog.aligu.top/post/89ad7e90.html</id>
-    <published>2024-07-11T07:06:52.000Z</published>
-    <updated>2024-08-06T12:38:19.412Z</updated>
-    
-    
-    <summary type="html">给hexo博客添加webstack主题的网址导航，第一种方法是把webstack主题的hexo博客生成的静态文件public放在主站源文件中，第二种方法是把webstack主题hexo博客部署到服务器解析分站域名。</summary>
-    
-    
-    
-    <category term="日志" scheme="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
-    
-    <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
-    
-    <category term="webstack" scheme="https://blog.aligu.top/tags/webstack/"/>
-    
-    <category term="域名" scheme="https://blog.aligu.top/tags/%E5%9F%9F%E5%90%8D/"/>
-    
-    <category term="cloudflare" scheme="https://blog.aligu.top/tags/cloudflare/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo内嵌PDF.js全平台查看PDF</title>
     <link href="https://blog.aligu.top/post/58cf1c26.html"/>
     <id>https://blog.aligu.top/post/58cf1c26.html</id>
@@ -349,6 +322,27 @@
     
     
     <summary type="html">修改CSS调整博客的宽度、边栏卡片大小、分页适配</summary>
+    
+    
+    
+    <category term="日志" scheme="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>地图插件给文章添加地图</title>
+    <link href="https://blog.aligu.top/post/ef5a93d5.html"/>
+    <id>https://blog.aligu.top/post/ef5a93d5.html</id>
+    <published>2024-06-05T09:47:22.000Z</published>
+    <updated>2024-08-02T03:16:28.829Z</updated>
+    
+    
+    <summary type="html">使用Hexo-tag-map地图插件给文章添加地图</summary>
     
     
     
