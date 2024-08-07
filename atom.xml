@@ -223,9 +223,9 @@
     
     <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
     
-    <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
-    
     <category term="pdf" scheme="https://blog.aligu.top/tags/pdf/"/>
+    
+    <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
     
     <category term="文献" scheme="https://blog.aligu.top/tags/%E6%96%87%E7%8C%AE/"/>
     
@@ -276,7 +276,7 @@
     <link href="https://blog.aligu.top/post/99caca76.html"/>
     <id>https://blog.aligu.top/post/99caca76.html</id>
     <published>2024-06-18T03:29:57.000Z</published>
-    <updated>2024-08-05T07:14:44.457Z</updated>
+    <updated>2024-08-07T10:44:41.832Z</updated>
     
     
     <summary type="html">部署Hexo博客到京东云服务器（自用备忘）</summary>
