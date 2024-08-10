@@ -9,8 +9,33 @@
     <atom:link href="https://blog.aligu.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Fri, 02 Aug 2024 04:30:37 GMT</pubDate>
+    <pubDate>Sat, 10 Aug 2024 06:10:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo（butterfly主题）添加Artitalk说说</title>
+      <link>https://blog.aligu.top/post/b92db799.html</link>
+      <guid>https://blog.aligu.top/post/b92db799.html</guid>
+      <pubDate>Sat, 10 Aug 2024 02:06:10 GMT</pubDate>
+      
+      <description>butterfly主题Hexo博客实现Artitalk说说功能</description>
+      
+      
+      
+      
+      <category domain="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.aligu.top/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://blog.aligu.top/tags/artitalk/">artitalk</category>
+      
+      
+      <comments>https://blog.aligu.top/post/b92db799.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>移动端侧边菜单栏添加功能按钮</title>
@@ -34,31 +59,6 @@
       
       
       <comments>https://blog.aligu.top/post/e3f9f39a.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Artitalk说说</title>
-      <link>https://blog.aligu.top/post/b92db799.html</link>
-      <guid>https://blog.aligu.top/post/b92db799.html</guid>
-      <pubDate>Fri, 02 Aug 2024 02:06:10 GMT</pubDate>
-      
-      <description>Hexo博客实现Artitalk说说功能</description>
-      
-      
-      
-      
-      <category domain="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://blog.aligu.top/tags/butterfly/">butterfly</category>
-      
-      <category domain="https://blog.aligu.top/tags/artitalk/">artitalk</category>
-      
-      
-      <comments>https://blog.aligu.top/post/b92db799.html#disqus_thread</comments>
       
     </item>
     
@@ -229,7 +229,7 @@
       
       
       
-      <category domain="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      <category domain="https://blog.aligu.top/categories/%E6%96%87%E7%8C%AE/">文献</category>
       
       
       <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
@@ -274,7 +274,7 @@
       <guid>https://blog.aligu.top/post/da4ac563.html</guid>
       <pubDate>Tue, 25 Jun 2024 02:49:45 GMT</pubDate>
       
-      <description>测试</description>
+      <description>测试页面</description>
       
       
       
