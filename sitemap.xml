@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.aligu.top/post/1e4ce84a.html</loc>
+    
+    <lastmod>2024-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.aligu.top/timeline/index.html</loc>
     
     <lastmod>2024-08-11</lastmod>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://blog.aligu.top/reference/index.html</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.aligu.top/post/1e4ce84a.html</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -666,13 +666,6 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/demo/</loc>
-    <lastmod>2024-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.aligu.top/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2024-08-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -688,6 +681,13 @@
   
   <url>
     <loc>https://blog.aligu.top/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2024-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/demo/</loc>
     <lastmod>2024-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -764,14 +764,14 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/artitalk/</loc>
+    <loc>https://blog.aligu.top/tags/%E8%8F%9C%E5%8D%95%E6%A0%8F/</loc>
     <lastmod>2024-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/%E8%8F%9C%E5%8D%95%E6%A0%8F/</loc>
+    <loc>https://blog.aligu.top/tags/artitalk/</loc>
     <lastmod>2024-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
