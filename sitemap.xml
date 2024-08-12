@@ -461,15 +461,6 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/picture/beauty/index.html</loc>
-    
-    <lastmod>2024-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.aligu.top/picture/wallpaper/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
@@ -489,6 +480,15 @@
   
   <url>
     <loc>https://blog.aligu.top/picture/%E5%B0%81%E9%9D%A2/index.html</loc>
+    
+    <lastmod>2024-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/picture/beauty/index.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -603,20 +603,6 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/Math/</loc>
-    <lastmod>2024-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.aligu.top/tags/Chem/</loc>
-    <lastmod>2024-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.aligu.top/tags/JavaScript/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -625,6 +611,20 @@
   
   <url>
     <loc>https://blog.aligu.top/tags/markdown/</loc>
+    <lastmod>2024-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/Math/</loc>
+    <lastmod>2024-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/Chem/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -645,13 +645,6 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/iconfont/</loc>
-    <lastmod>2024-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.aligu.top/tags/vercel/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -666,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <loc>https://blog.aligu.top/tags/iconfont/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -674,6 +667,13 @@
   
   <url>
     <loc>https://blog.aligu.top/tags/demo/</loc>
+    <lastmod>2024-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -701,6 +701,20 @@
   </url>
   
   <url>
+    <loc>https://blog.aligu.top/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/</loc>
+    <lastmod>2024-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.aligu.top/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/</loc>
+    <lastmod>2024-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.aligu.top/tags/Error/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -716,20 +730,6 @@
   
   <url>
     <loc>https://blog.aligu.top/tags/%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2024-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.aligu.top/tags/%E9%93%BE%E6%8E%A5%E5%8D%A1%E7%89%87/</loc>
-    <lastmod>2024-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.aligu.top/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -757,7 +757,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/%E5%AD%97%E4%BD%93/</loc>
+    <loc>https://blog.aligu.top/tags/%E8%8F%9C%E5%8D%95%E6%A0%8F/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -771,7 +771,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aligu.top/tags/%E8%8F%9C%E5%8D%95%E6%A0%8F/</loc>
+    <loc>https://blog.aligu.top/tags/%E5%AD%97%E4%BD%93/</loc>
     <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
