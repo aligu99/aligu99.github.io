@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.aligu.top/post/2bd582ec.html</loc>
+    <lastmod>2024-08-19</lastmod>
+  </url>
+  <url>
     <loc>https://blog.aligu.top/post/1e4ce84a.html</loc>
     <lastmod>2024-08-12</lastmod>
   </url>
@@ -127,9 +131,5 @@
   <url>
     <loc>https://blog.aligu.top/post/4a17b156.html</loc>
     <lastmod>2024-07-24</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.aligu.top/post/2bd582ec.html</loc>
-    <lastmod>2024-07-21</lastmod>
   </url>
 </urlset> 
