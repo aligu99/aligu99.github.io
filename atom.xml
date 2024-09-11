@@ -6,7 +6,7 @@
   <link href="https://blog.aligu.top/atom.xml" rel="self"/>
   
   <link href="https://blog.aligu.top/"/>
-  <updated>2024-08-11T03:05:49.010Z</updated>
+  <updated>2024-09-10T05:55:44.234Z</updated>
   <id>https://blog.aligu.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>笔记软件Obsidian主题和字体</title>
+    <link href="https://blog.aligu.top/post/ea5e61f5.html"/>
+    <id>https://blog.aligu.top/post/ea5e61f5.html</id>
+    <published>2024-09-10T05:51:26.000Z</published>
+    <updated>2024-09-10T05:55:44.234Z</updated>
+    
+    
+    <summary type="html">发现一个obsidian很好看的主题，并且和霞鹜文楷字体完美适配</summary>
+    
+    
+    
+    <category term="展示" scheme="https://blog.aligu.top/categories/%E5%B1%95%E7%A4%BA/"/>
+    
+    
+    <category term="Obsidian" scheme="https://blog.aligu.top/tags/Obsidian/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo（butterfly主题）添加Artitalk说说</title>
@@ -223,9 +242,9 @@
     
     <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
     
-    <category term="pdf" scheme="https://blog.aligu.top/tags/pdf/"/>
-    
     <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
+    
+    <category term="pdf" scheme="https://blog.aligu.top/tags/pdf/"/>
     
     <category term="文献" scheme="https://blog.aligu.top/tags/%E6%96%87%E7%8C%AE/"/>
     
@@ -322,27 +341,6 @@
     
     
     <summary type="html">修改CSS调整博客的宽度、边栏卡片大小、分页适配</summary>
-    
-    
-    
-    <category term="日志" scheme="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.aligu.top/tags/Hexo/"/>
-    
-    <category term="butterfly" scheme="https://blog.aligu.top/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>地图插件给文章添加地图</title>
-    <link href="https://blog.aligu.top/post/ef5a93d5.html"/>
-    <id>https://blog.aligu.top/post/ef5a93d5.html</id>
-    <published>2024-06-05T09:47:22.000Z</published>
-    <updated>2024-08-02T03:16:28.829Z</updated>
-    
-    
-    <summary type="html">使用Hexo-tag-map地图插件给文章添加地图</summary>
     
     
     

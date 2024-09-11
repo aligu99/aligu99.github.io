@@ -9,8 +9,29 @@
     <atom:link href="https://blog.aligu.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>大师兄，师傅又被妖怪抓走啦！</description>
-    <pubDate>Sun, 11 Aug 2024 03:05:49 GMT</pubDate>
+    <pubDate>Tue, 10 Sep 2024 05:55:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>笔记软件Obsidian主题和字体</title>
+      <link>https://blog.aligu.top/post/ea5e61f5.html</link>
+      <guid>https://blog.aligu.top/post/ea5e61f5.html</guid>
+      <pubDate>Tue, 10 Sep 2024 05:51:26 GMT</pubDate>
+      
+      <description>发现一个obsidian很好看的主题，并且和霞鹜文楷字体完美适配</description>
+      
+      
+      
+      
+      <category domain="https://blog.aligu.top/categories/%E5%B1%95%E7%A4%BA/">展示</category>
+      
+      
+      <category domain="https://blog.aligu.top/tags/Obsidian/">Obsidian</category>
+      
+      
+      <comments>https://blog.aligu.top/post/ea5e61f5.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hexo（butterfly主题）添加Artitalk说说</title>
@@ -234,9 +255,9 @@
       
       <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
       
-      <category domain="https://blog.aligu.top/tags/pdf/">pdf</category>
-      
       <category domain="https://blog.aligu.top/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://blog.aligu.top/tags/pdf/">pdf</category>
       
       <category domain="https://blog.aligu.top/tags/%E6%96%87%E7%8C%AE/">文献</category>
       
@@ -355,29 +376,6 @@
       
       
       <comments>https://blog.aligu.top/post/4d45026a.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>地图插件给文章添加地图</title>
-      <link>https://blog.aligu.top/post/ef5a93d5.html</link>
-      <guid>https://blog.aligu.top/post/ef5a93d5.html</guid>
-      <pubDate>Wed, 05 Jun 2024 09:47:22 GMT</pubDate>
-      
-      <description>使用Hexo-tag-map地图插件给文章添加地图</description>
-      
-      
-      
-      
-      <category domain="https://blog.aligu.top/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://blog.aligu.top/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://blog.aligu.top/tags/butterfly/">butterfly</category>
-      
-      
-      <comments>https://blog.aligu.top/post/ef5a93d5.html#disqus_thread</comments>
       
     </item>
     
